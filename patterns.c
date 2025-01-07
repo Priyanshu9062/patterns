@@ -2,7 +2,7 @@
 
 int main()
 {
-    int rows = 5;
+    int rows = 9;
 
     // first loop for printing rows
     for (int i = 0; i < rows; i++) {
