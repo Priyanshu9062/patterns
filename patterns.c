@@ -4,7 +4,7 @@ int main()
 {
     int rows = 9;
 
-    // first loop for printing rows
+    // first loop for printing row
     for (int i = 0; i < rows; i++) {
 
         // second loop for printing character in each rows
