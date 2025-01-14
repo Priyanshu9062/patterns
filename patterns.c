@@ -9,7 +9,7 @@ int main()
 
         // second loop for printing character in each rows
         for (int j = 0; j <= i; j++) {
-            printf("*  ");
+            printf("* ");
         }
         printf("\n");
     }
